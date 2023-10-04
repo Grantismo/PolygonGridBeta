@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "https://grantismo.github.io/PolygonGridBeta/static/css/main.b2206256.css",
-    "main.js": "https://grantismo.github.io/PolygonGridBeta/static/js/main.34d44fef.js",
+    "main.css": "https://grantismo.github.io/PolygonGridBeta/static/css/main.7fe14d8b.css",
+    "main.js": "https://grantismo.github.io/PolygonGridBeta/static/js/main.c10240f2.js",
     "static/js/27.b67eaa8d.chunk.js": "https://grantismo.github.io/PolygonGridBeta/static/js/27.b67eaa8d.chunk.js",
     "index.html": "https://grantismo.github.io/PolygonGridBeta/index.html",
     "static/media/streak.svg": "https://grantismo.github.io/PolygonGridBeta/static/media/streak.45faba1660b5abaf0f4f4c8d62affd34.svg"
   },
   "entrypoints": [
-    "static/css/main.b2206256.css",
-    "static/js/main.34d44fef.js"
+    "static/css/main.7fe14d8b.css",
+    "static/js/main.c10240f2.js"
   ]
 }
